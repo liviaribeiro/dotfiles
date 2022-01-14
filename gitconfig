@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = liviapribeiro@gmail.com
+	name = livia ribeiro
